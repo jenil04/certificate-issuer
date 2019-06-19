@@ -10,7 +10,7 @@
   "introductionURL": "https://www.issuer.org/intro/",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:nMIIBCgKCAQEAyKzspTtMT5YedE8ot4n8433clsEC+pqaBi9DqDwpRlcrOyqM+45b1absGPHa\n1AkI3thte6YzgFX8qsl1euvVUFt94t6jx9a+fnOoxiwdRI4tcVOioCb1v1hwxjkRaEhnflQf\nLARPtkkEMBT9gZwxneIZWezGh2bgqydV5IKC3MT4+cpRlLJ8S/EhDfJ3BZBjn5PRvFJqax7g\n577nv7ZOJS1omPQXaP3EwGLviF0LlM54b0y0ENwHvX+9IY1qKrXtyfHWEUrTJO+iEx85ngjk\n7FfCeNQvzYIJb3JnMq/yC3Iyl207OR/VpZeu0lSYcOH2CkAVsp2C16FyLDYWcKfsvwIDAQAB",
+      "id": "ecdsa-koblitz-pubkey:0x2bF81856b6d2243Ed85bA2b937adAFB21341556C",
       "created": "2017-06-29T14:48:03.814936+00:00"
     }
   ],
